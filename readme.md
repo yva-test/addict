@@ -1,6 +1,6 @@
 # Addict
 
-> Get a full Active Directory REST API in 30 seconds
+> Get a full Active Directory REST API in 29,999999 seconds
 
 ---
 
